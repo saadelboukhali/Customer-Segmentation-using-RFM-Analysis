@@ -1,6 +1,7 @@
 # Marketing Data Science Project - Customer Segmentation Using RFM Analysis
 
-![Alt text for the image](Assets/Images/Pic0.JPG)
+![Customer Segments Distribution](Assets/Images/Pic0.png)
+
 
 
 
