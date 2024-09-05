@@ -32,6 +32,3 @@ The dataset used for this project is the [Online Retail dataset](https://archive
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
-## Libraries Used
-
