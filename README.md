@@ -1,5 +1,11 @@
 # Marketing Data Science Project - Customer Segmentation Using RFM Analysis
 
+![Alt text for the image](Assets/Images/Pic0.JPG)
+
+
+
+
+
 ## Project Overview
 
 This project is focused on **Customer Segmentation** using the **RFM (Recency, Frequency, Monetary)** analysis method. The goal of the analysis is to segment customers based on their purchasing behavior, which helps in understanding the value each customer brings to the business and in targeting different customer segments for marketing strategies.
