@@ -28,7 +28,7 @@ The dataset used for this project is the [Online Retail dataset](https://archive
 
 ## Libraries Used
 
-image 1
+Assets/Images/1.JPG
 
 ## Steps of Analysis
 
@@ -61,7 +61,12 @@ image 1
 
 ## Results
 
-### Key Insights from the RFM Analysis
+Assets/Images/2.JPG
+
+
+---
+
+## Key Insights from the RFM Analysis
 
 #### 1. Top Customers by Monetary Value:
 - Customers with the highest monetary scores were identified. These are typically the most valuable customers, driving the highest revenue.
