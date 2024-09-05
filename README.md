@@ -28,7 +28,8 @@ The dataset used for this project is the [Online Retail dataset](https://archive
 
 ## Libraries Used
 
-Assets/Images/1.JPG
+![Alt text for the image](Assets/Images/1.JPG)
+
 
 ## Steps of Analysis
 
@@ -61,7 +62,8 @@ Assets/Images/1.JPG
 
 ## Results
 
-Assets/Images/2.JPG
+![Alt text for the image](Assets/Images/2.JPG)
+
 
 
 ---
