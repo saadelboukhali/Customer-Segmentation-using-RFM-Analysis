@@ -84,6 +84,9 @@ The dataset used for this project is the [Online Retail dataset](https://archive
 
 ---
 
-## Final Dataset
+## Visualization
 
-- The final dataset contains columns for **Recency**, **Frequency**, **Monetary**, and **RFM Scores** for each customer, allowing for easy identification of segments for targeted marketing.
+- This bar chart illustrates the distribution of customer segments based on RFM analysis. The most prevalent segment is "Hibernating," followed by "Loyal Customers" and "Champions." The chart shows a decreasing number of customers in other segments, such as "At Risk," "Potential Loyalists," and "About to Sleep," providing insight into where the business might focus its marketing or re-engagement efforts.
+
+![Alt text for the image](Assets/Images/3.JPG)
+
