@@ -14,7 +14,7 @@ This project is focused on **Customer Segmentation** using the **RFM (Recency, F
 ## Jupyter Notebook
 
 This project analyzes customer data using RFM Analysis. The analysis and visualizations are performed in a Jupyter notebook.
-You can find the detailed analysis in this [Notebook](Customer-Segmentation-using-RFM-Analysis/notebooks/analysis.ipynb).
+You can find the detailed analysis in this [Notebook](Notebook/customer%20segmentation%20project.ipynb).
 
 
 ## Data Source
