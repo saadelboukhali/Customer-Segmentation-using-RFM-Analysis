@@ -11,6 +11,12 @@
 
 This project is focused on **Customer Segmentation** using the **RFM (Recency, Frequency, Monetary)** analysis method. The goal of the analysis is to segment customers based on their purchasing behavior, which helps in understanding the value each customer brings to the business and in targeting different customer segments for marketing strategies.
 
+## Jupyter Notebook
+
+This project analyzes customer data using RFM Analysis. The analysis and visualizations are performed in a Jupyter notebook.
+You can find the detailed analysis in this [Notebook](path/to/notebook.ipynb).
+
+
 ## Data Source
 
 The dataset used for this project is the [Online Retail dataset](https://archive.ics.uci.edu/dataset/352/online+retail) from the UCI Machine Learning Repository. It contains transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail company.
